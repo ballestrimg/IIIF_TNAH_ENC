@@ -1,0 +1,205 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://ballestrimg.github.io/IIIF_TNAH_ENC/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "This is a wonderful manifest created by Gilmar",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This is a collection of images about African Art History and french colonialism",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Musée du quai Branly",
+  "sequences" : [ {
+    "@id" : "http://94b8e51a-0d97-4491-b02a-d74647e535fb",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9cb3596c-4461-4699-852c-53ff0f51f9e9",
+      "@type" : "sc:Canvas",
+      "label" : "Service religieux pour les victimes de la dernière expédition contre Amadou Sékou/Lat Dior N'Goné, roi de Cayor",
+      "height" : 573,
+      "width" : 713,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3aeb39eb-b572-45f0-8955-536d970b7852",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/service-religieux-pour-les-victimes-de-la-derniere-expedition-contre-amadou-sekou-lat-dior-ngone-roi-de-cayor-retabli-sur-son-trone-par-nos-troupes/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/service-religieux-pour-les-victimes-de-la-derniere-expedition-contre-amadou-sekou-lat-dior-ngone-roi-de-cayor-retabli-sur-son-trone-par-nos-troupes",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 713
+        },
+        "on" : "http://9cb3596c-4461-4699-852c-53ff0f51f9e9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3f9648d4-a205-46b7-b74f-e3e322230332",
+      "@type" : "sc:Canvas",
+      "label" : "Portrait d'un enfant",
+      "height" : 573,
+      "width" : 435,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2b0413f9-2c07-43a3-ba1a-a356ef3b9712",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/senegalais-portrait-d-enfant/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/senegalais-portrait-d-enfant",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 435
+        },
+        "on" : "http://3f9648d4-a205-46b7-b74f-e3e322230332"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6818495f-90df-408c-b719-afea8dc1de65",
+      "@type" : "sc:Canvas",
+      "label" : "Poignard avec son fourreau",
+      "height" : 573,
+      "width" : 393,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e2602ae7-f75f-4b02-a910-7d5bf4c9d761",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/poignard-avec-son-fourreau/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/poignard-avec-son-fourreau",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 393
+        },
+        "on" : "http://6818495f-90df-408c-b719-afea8dc1de65"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://43ff8724-e3a2-4f47-b358-c210a694162b",
+      "@type" : "sc:Canvas",
+      "label" : "Ouali-Médiale, Sérère",
+      "height" : 573,
+      "width" : 741,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a7b87b16-0809-4a3b-8737-c355a96bd21e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/ouali-mediale-serere/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/ouali-mediale-serere",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 741
+        },
+        "on" : "http://43ff8724-e3a2-4f47-b358-c210a694162b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b7c0bdea-5527-4ff5-b5e4-b6a283b5ff6e",
+      "@type" : "sc:Canvas",
+      "label" : "Couteau",
+      "height" : 573,
+      "width" : 393,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://07f599a9-0506-4ae6-aa9b-75a2b33980f7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/couteau/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/couteau",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 393
+        },
+        "on" : "http://b7c0bdea-5527-4ff5-b5e4-b6a283b5ff6e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fa9d15d0-101c-4630-b66b-ca018ef197cb",
+      "@type" : "sc:Canvas",
+      "label" : "Chapeau",
+      "height" : 573,
+      "width" : 863,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://16fd175e-8df3-488a-81ba-e79d42f785d7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/chapeau/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/chapeau",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 863
+        },
+        "on" : "http://fa9d15d0-101c-4630-b66b-ca018ef197cb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5a3047cc-d18d-47df-9c8f-77c25b646c0e",
+      "@type" : "sc:Canvas",
+      "label" : "Amulette",
+      "height" : 573,
+      "width" : 381,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e63d52a9-8a58-4799-95e6-52f0321f2e70",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/amulette/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ballestrimg.github.io/IIIF_tnah_project/images/amulette",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 573,
+          "width" : 381
+        },
+        "on" : "http://5a3047cc-d18d-47df-9c8f-77c25b646c0e"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
